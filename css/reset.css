@@ -32,4 +32,4 @@ h1,h2,h3,h4,h5,h6{
 	font-weight: normal;
 	margin-top: 0;
 }
-table{border-collapse:collapse;} /* 칸사이의 기본 여백 제거 및 중첩 테두리 상쇄 효과 */
+table{border-collapse:collapse;}
