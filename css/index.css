@@ -521,7 +521,7 @@ header{
   .item-sub-1 p{
     width: 300px;
     height: inherit;
-    font-size: 12.5px;
+    font-size: 13px;
     font-weight: 300;
     text-align: center;
     padding-top: 50px;
@@ -835,4 +835,5 @@ footer address{
   color: #fff;
   font-style: normal;
   text-transform: uppercase;
+
 }
